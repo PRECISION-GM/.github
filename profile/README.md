@@ -8,6 +8,12 @@
 | Principal Investigator | Yan Feng |
 | Program | U.S. Department of Energy Genesis Mission; selected in the first round of Genesis Mission research projects (DOE announcement of July 22, 2026; DE-FOA-0003612) |
 
+## Collaborating institutions
+
+- Argonne National Laboratory (lead)
+- NSF National Center for Atmospheric Research (NSF NCAR)
+- Aeolus Labs
+
 ## Scientific challenge
 
 Precipitation and high-impact weather remain among the least well-predicted quantities in Earth system models (ESMs), and the representation of cloud microphysics is a leading source of that uncertainty. The processes that determine the onset, location, and intensity of precipitation, including droplet activation, condensational growth, and collision–coalescence, are coupled to turbulence at scales from micrometres to metres, whereas ESM grid cells span kilometres to tens of kilometres. Bulk microphysics parameterizations bridge this gap with prescribed particle size distributions and empirically tuned process rates, and the resulting errors propagate into simulated precipitation, cloud radiative effects, and extremes.
